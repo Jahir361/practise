@@ -73,4 +73,33 @@ body{
     height: auto;
     border-radius: 10px;
 }
+.fllowers{
+    display: flex;
+    text-align: center;
+    justify-content: space-between;
+    
+}
+
+.last-box{
+    box-shadow: 10px 12px 20px gray;
+    width: 50%;
+    margin: auto;
+    margin-top: 30px;
+    padding-right: 30px;   
+}
+footer{
+    background-color: black;
+    text-align: center;
+    height: 150px;
+}
+footer h1{
+    color: gray;
+}
+footer span{
+    color: orange;
+}
+footer p{
+    font-weight: 200;
+    color: white;
+}
 
